@@ -29,18 +29,23 @@ This tool is using a higly modifid version of [wuhuikai FaceSwap ](https://githu
 use pip in python to install the following
 
 opencv
+
 `$ pip install opencv-python`
 
 cmake
+
 `$ pip install cmake`
 
 dlib
+
 `$ pip install dlib`
 
 numpy
+
 `$ pip install numpy`
 
 scipy
+
 `$ pip install scipy`
 
 #### Main functions
