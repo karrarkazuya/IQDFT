@@ -24,7 +24,7 @@ Face tool made with opencv in python
 This tool is using a higly modifid version of [wuhuikai FaceSwap ](https://github.com/wuhuikai/FaceSwap)way of implementing face swap so check that out too
 
 
-####Requirements
+#### Requirements
 
 use pip in python to install the following
 opencv
@@ -38,7 +38,7 @@ numpy
 scipy
 `$ pip install scipy`
 
-####Main functions
+#### Main functions
 
 you can blur up faces in a video like this
 
@@ -59,7 +59,7 @@ you can also swap faces between videos like this
 And thats basically it!
 
 
-####Worth to mention　
+#### Worth to mention　
 
 This tool comes with no warranty or guarantee of any kind, the face detection might not always detect faces to blur so you will always have to check the videos after that to check if any frames went without blurring or hiding. also the face swap on videos is for educational cases so you could learn about how this works and all and you are not allowed to use it in any way to fake videos to harm people.
 also the videos I used are already on YouTube and here are some links
