@@ -3,7 +3,7 @@ Face tool made with opencv in python
 
 ### Features
 
-- Support Face bluring or adding a mask (image) on faces;
+- Supports Face bluring or adding a mask (image) on faces;
 
 | Blur face hiding 1 |  Blur face hiding 2 |
 | --- | --- |
@@ -27,14 +27,19 @@ This tool is using a higly modifid version of [wuhuikai FaceSwap ](https://githu
 #### Requirements
 
 use pip in python to install the following
+
 opencv
 `$ pip install opencv-python`
+
 cmake
 `$ pip install cmake`
+
 dlib
 `$ pip install dlib`
+
 numpy
 `$ pip install numpy`
+
 scipy
 `$ pip install scipy`
 
